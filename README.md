@@ -1,4 +1,4 @@
 #esercizio 5
-chiesto un numero e restituito il doppio
+chiesto un numero e restituito il triplo
 #esecuzione
-file python
+file pytho

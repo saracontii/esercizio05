@@ -1,2 +1,2 @@
 x = int(input("Inserire un numero intero "))
-print(x*2)
+print(x*3)
